@@ -30,8 +30,4 @@ $ npm run test
 
 $ npm run build
 ```
-|||
-|---|---|
-|![スクリーンショット 2024-07-14 20 47 16](https://github.com/user-attachments/assets/f019c4bf-0c1b-449c-b9d6-45cdf5d883c6)|![スクリーンショット 2024-07-14 20 46 11](https://github.com/user-attachments/assets/5919f9ca-6b53-46d9-ba91-4062430fb3df)|
-|![スクリーンショット 2024-07-14 20 46 35](https://github.com/user-attachments/assets/7f0902cb-32fb-4b83-8e48-604dbc429367)|![スクリーンショット 2024-07-14 21 26 08](https://github.com/user-attachments/assets/747877b5-1bc3-40e8-872e-83a94d7bcb68)|
-![スクリーンショット 2024-07-14 21 30 01](https://github.com/user-attachments/assets/97c37a49-d167-4dc2-be55-0ec04a29534a)||
+
